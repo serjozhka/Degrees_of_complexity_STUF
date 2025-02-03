@@ -28,7 +28,7 @@ This file contains additional semi-automated annotations signalling identical ve
 ## 2. Output data
 languages_everything.xlsx
 
-This file contains a summarizing table created using an R script and containing summary information for individual languages reflexing various aspects of their valency systems. This file was used for the preparation of the Appendix in the paper.
+This spreasdsheet was created using an R script and contains summary information for individual languages reflexing various aspects of their valency systems. This file was used for the preparation of the Appendix in the paper.
 
 ## 3. Code
 Degrees_of_complexity_STUF.R
