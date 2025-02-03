@@ -27,8 +27,10 @@ This file contains additional semi-automated annotations signalling identical ve
 
 ## 2. Output data
 languages_everything.xlsx
+
 This file contains a summarizing table created using an R script and containing summary information for individual languages reflexing various aspects of their valency systems. This file was used for the preparation of the Appendix in the paper.
 
 ## 3. Code
 Degrees_of_complexity_STUF.R
+
 This is the R code used for data analysis, including preparing the summarizing table (languages_everything.xlsx), as well as linear mixed-effects models mentioned in the paper and also various visualizations.
